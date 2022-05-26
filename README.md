@@ -1,4 +1,4 @@
-##### This is my first SASS project.
+### This is my first SASS project.
 ## What did I learn in this project?
 * First of all, I took apart the website that I was planning to build.
 * I gave the necessary command in the terminal so that what I did with SASS would affect my page. 
